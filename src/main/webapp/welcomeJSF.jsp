@@ -19,7 +19,7 @@
         </head>
         <body>
             <h:form>
-                <h1><h:outputText value="Commit Diplomado 21/07/25 8:26" /></h1>
+                <h1><h:outputText value="Pipeline desde Dockerhub 23/07/2025" /></h1>
                 <br/>
                 <h:commandLink action="#{product.listSetup}" value="All Products" id="linkProds" />
                 <br/>
